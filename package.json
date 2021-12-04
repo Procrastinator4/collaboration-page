@@ -1,0 +1,24 @@
+{
+  "name": "biography-tailwindcss-react-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "install": "^0.13.0",
+    "npm": "^8.2.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0",
+    "remixicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/jit": "^0.1.18",
+    "@vitejs/plugin-react": "^1.0.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19",
+    "vite": "^2.6.4"
+  }
+}
