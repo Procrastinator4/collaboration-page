@@ -6,6 +6,7 @@ const Footer = () => {
       <div className="flex justify-center items-center">
         <ul className="flex flex-col space-y-4 text-white">
           <li>Home</li>
+          <li>Help Us</li>
           <li>About</li>
           <li>Contact Us</li>
         </ul>
